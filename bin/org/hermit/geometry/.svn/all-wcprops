@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/727/trunk/HermitLibrary/src/org/hermit/geometry
+END
+Point.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/727/trunk/HermitLibrary/src/org/hermit/geometry/Point.java
+END
+Graph.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/727/trunk/HermitLibrary/src/org/hermit/geometry/Graph.java
+END
+Edge.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/727/trunk/HermitLibrary/src/org/hermit/geometry/Edge.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/727/trunk/HermitLibrary/src/org/hermit/geometry/package.html
+END
+Region.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/727/trunk/HermitLibrary/src/org/hermit/geometry/Region.java
+END
+Vector.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/727/trunk/HermitLibrary/src/org/hermit/geometry/Vector.java
+END
+MathTools.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/727/trunk/HermitLibrary/src/org/hermit/geometry/MathTools.java
+END

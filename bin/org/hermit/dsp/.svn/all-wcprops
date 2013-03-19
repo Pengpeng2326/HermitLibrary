@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/727/trunk/HermitLibrary/src/org/hermit/dsp
+END
+Window.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/727/trunk/HermitLibrary/src/org/hermit/dsp/Window.java
+END
+SignalPower.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/727/trunk/HermitLibrary/src/org/hermit/dsp/SignalPower.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/727/trunk/HermitLibrary/src/org/hermit/dsp/package.html
+END
+FFTTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/727/trunk/HermitLibrary/src/org/hermit/dsp/FFTTransformer.java
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/890/trunk/HermitLibrary/src/org/hermit/astro
+END
+AstroConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/727/trunk/HermitLibrary/src/org/hermit/astro/AstroConstants.java
+END
+Vsop87.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/727/trunk/HermitLibrary/src/org/hermit/astro/Vsop87.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/727/trunk/HermitLibrary/src/org/hermit/astro/package.html
+END
+Sun.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/727/trunk/HermitLibrary/src/org/hermit/astro/Sun.java
+END
+Observation.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/727/trunk/HermitLibrary/src/org/hermit/astro/Observation.java
+END
+AstroError.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/727/trunk/HermitLibrary/src/org/hermit/astro/AstroError.java
+END
+Planet.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/727/trunk/HermitLibrary/src/org/hermit/astro/Planet.java
+END
+CalcError.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/727/trunk/HermitLibrary/src/org/hermit/astro/CalcError.java
+END
+Body.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/727/trunk/HermitLibrary/src/org/hermit/astro/Body.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/727/trunk/HermitLibrary/src/org/hermit/astro/Util.java
+END
+Instant.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/890/trunk/HermitLibrary/src/org/hermit/astro/Instant.java
+END
+Moon.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/727/trunk/HermitLibrary/src/org/hermit/astro/Moon.java
+END

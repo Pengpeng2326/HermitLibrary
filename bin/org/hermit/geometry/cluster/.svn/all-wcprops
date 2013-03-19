@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/727/trunk/HermitLibrary/src/org/hermit/geometry/cluster
+END
+FuzzyClusterer.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/727/trunk/HermitLibrary/src/org/hermit/geometry/cluster/FuzzyClusterer.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/727/trunk/HermitLibrary/src/org/hermit/geometry/cluster/package.html
+END
+Clusterer.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/727/trunk/HermitLibrary/src/org/hermit/geometry/cluster/Clusterer.java
+END
+KMeansClusterer.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/727/trunk/HermitLibrary/src/org/hermit/geometry/cluster/KMeansClusterer.java
+END
