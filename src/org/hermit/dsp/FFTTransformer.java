@@ -264,6 +264,7 @@ public final class FFTTransformer {
     
         // Update the index.
         int historyLen = histories[0].length;
+        // mod wrap history index
         if (++index >= historyLen)
             index = 0;
        
